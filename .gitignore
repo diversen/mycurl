@@ -1,1 +1,3 @@
 vendor/
+composer-master.lock
+composer.lock
